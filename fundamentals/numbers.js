@@ -26,6 +26,7 @@
 
   console.log(7/0) //returns infinity
   console.log("10"/2) //returns 5 because JS cast the string to int
+  console.log('3' + 2) //this will concatenate, and not to sum numbers
   console.log("Show" * 2) //returns NaN
 
   //point float issues
